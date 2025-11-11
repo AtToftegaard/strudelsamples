@@ -1,1 +1,11 @@
-{"fart":["/samples/fart/09037.mp3","/samples/fart/chewbacca_uRcA3HX.mp3","/samples/fart/dry-fart.mp3","/samples/fart/faaaaaaaaaaaaaaaaaaaaaaaaaaaaaaart.mp3","/samples/fart/loud-shitpost-fart.mp3","/samples/fart/perfect-fart.wav"],"_base":"http://localhost:5432"}
+{
+    "fart": [
+        "/samples/fart/09037.wav",
+        "/samples/fart/chewbacca_uRcA3HX.wav",
+        "/samples/fart/dry-fart.wav",
+        "/samples/fart/faaaaaaaaaaaaaaaaaaaaaaaaaaaaaaart.wav",
+        "/samples/fart/loud-shitpost-fart.wav",
+        "/samples/fart/perfect-fart.wav"
+    ],
+    "_base": "https://raw.githubusercontent.com/github.com/AtToftegaard/strudelsamples/master"
+}
